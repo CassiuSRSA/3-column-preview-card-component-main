@@ -34,12 +34,13 @@ body {
 .cards-container {
   display: flex;
   width: 70%;
-  margin: 10px;
+  margin: 100px auto;
 }
 
 .card {
   width: 100%;
   max-width: 375px;
+  min-width: 300px;
   min-height: 550px;
   padding: 50px;
   max-height: 700px;
